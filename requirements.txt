@@ -1,0 +1,11 @@
+# Haystack 3.x — фреймворк агента/RAG (актуальная ветка; 2.x — архивная)
+haystack-ai>=3.4.0,<4
+pinecone-haystack>=6.4.0,<7
+
+# Telegram-бот
+pyTelegramBotAPI>=4.25.0
+
+# Сеть и утилиты
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+python-dotenv>=1.0.1

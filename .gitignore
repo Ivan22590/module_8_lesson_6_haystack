@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Секреты — никогда не коммитим (шаблон .env.example можно коммитить)
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# Служебное
+*.log
+.pytest_cache/
+.mypy_cache/
